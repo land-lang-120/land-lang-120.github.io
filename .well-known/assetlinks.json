@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.clonexstudio.chromemessenger",
+      "sha256_cert_fingerprints": [
+        "69:0A:17:A6:ED:C3:85:AE:5D:C4:A4:91:D4:DE:62:D3:1E:63:0F:3E:DA:B0:D9:5B:59:86:52:19:CF:6B:E7:1F"
+      ]
+    }
+  }
+]
